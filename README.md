@@ -1,4 +1,4 @@
-![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/e654fb15-b068-414d-9982-958879a03609)
-![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/9bee0935-5ba1-4c53-916a-39236aa38a5d)
-![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/10703840-0496-4fde-9259-ec83f4ce21cf)
-![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/552dc50c-51f8-45dc-907d-3a59c70bf160)
+![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/14444226-5c2d-4c35-9217-c59b5ce5eb38)
+![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/c975a794-6198-45e0-ba5b-d3345f9a8b04)
+![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/b1b11947-a846-4445-a775-0421463d045b)
+![image](https://github.com/senayazicioglu/react-native-blog/assets/79763384/3d5f26b5-2144-4822-818e-053b3a362048)
